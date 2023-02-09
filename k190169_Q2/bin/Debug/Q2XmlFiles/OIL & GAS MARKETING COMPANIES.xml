@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xml>
+  <Scripts>
+    <Script>Attock Petroleum Limited.</Script>
+    <Price>279.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Burshane LPG (Pakistan) Limited.</Script>
+    <Price>17.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hascol Petroleum Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>6.38</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hi-Tech Lubricants Limited.</Script>
+    <Price>39.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Oilboy Energy Limited.</Script>
+    <Price>7.11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan State Oil Co Ltd.</Script>
+    <Price>168.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shell Pakistan Ltd.</Script>
+    <Price>136.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sui Northern Gas Pipe Line Ltd.(XD)</Script>
+    <Price>32.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sui Southern Gas Co Ltd.</Script>
+    <Price>9.79</Price>
+  </Scripts>
+</xml>

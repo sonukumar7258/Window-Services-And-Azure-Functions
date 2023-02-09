@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xml>
+  <Scripts>
+    <Script>Prosperity Weaving Mills Ltd.</Script>
+    <Price>45.00</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahtaj Textile Ltd.</Script>
+    <Price>103.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Yousuf Weaving Mills Limited.</Script>
+    <Price>4.89</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Zephyr Textile Limited.</Script>
+    <Price>9.50</Price>
+  </Scripts>
+</xml>

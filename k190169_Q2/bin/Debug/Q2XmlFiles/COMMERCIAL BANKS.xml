@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xml>
+  <Scripts>
+    <Script>Allied Bank Ltd.</Script>
+    <Price>64.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Bank Limited.</Script>
+    <Price>17.53</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Al-Habib Ltd.</Script>
+    <Price>54.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Alfalah Ltd.</Script>
+    <Price>31.00</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Of Punjab.</Script>
+    <Price>5.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bankislami Pakistan Ltd.</Script>
+    <Price>10.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Faysal Bank Limited.</Script>
+    <Price>26.00</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Bank Limited.</Script>
+    <Price>71.53</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Metropolitan Bank Limited.</Script>
+    <Price>35.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MCB Bank Limited.</Script>
+    <Price>116.29</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Meezan Bank Limited.</Script>
+    <Price>108.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>National Bank Of Pakistan.(XD)</Script>
+    <Price>25.61</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Samba Bank Limited.</Script>
+    <Price>6.10</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Silk Bank Limited.</Script>
+    <Price>1.13</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Soneri Bank Ltd.</Script>
+    <Price>9.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Standard Chartered Bank Pak Ltd.</Script>
+    <Price>20.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Summit Bank Limited.</Script>
+    <Price>1.48</Price>
+  </Scripts>
+  <Scripts>
+    <Script>The Bank of Khyber.</Script>
+    <Price>12.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Bank Ltd.</Script>
+    <Price>112.58</Price>
+  </Scripts>
+</xml>

@@ -1,0 +1,12 @@
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\bin\Debug\k190169_Q2.exe.config
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\bin\Debug\k190169_Q2.exe
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\bin\Debug\k190169_Q2.pdb
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\bin\Debug\HtmlToXml.dll
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\bin\Debug\HtmlToXml.pdb
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.csproj.AssemblyReference.cache
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.ProjectInstaller.resources
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.csproj.GenerateResource.cache
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.csproj.CoreCompileInputs.cache
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.csproj.CopyComplete
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.exe
+C:\Users\sonuk\source\repos\k190169_Q2\k190169_Q2\obj\Debug\k190169_Q2.pdb

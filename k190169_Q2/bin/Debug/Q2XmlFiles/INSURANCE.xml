@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xml>
+  <Scripts>
+    <Script>Adamjee Insurance Co. Ltd.</Script>
+    <Price>30.23</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Gen Insurance Co.</Script>
+    <Price>16.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cresent Star Insurance Ltd.</Script>
+    <Price>1.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Insurance Co Ltd.</Script>
+    <Price>5.60</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IGI Holdings Limited.</Script>
+    <Price>95.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jubilee General Insurance Co.Ltd.</Script>
+    <Price>28.00</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Reinsurance Comp.</Script>
+    <Price>7.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>PICIC Insurance Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Reliance Insurance.</Script>
+    <Price>6.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Insurance Company.</Script>
+    <Price>7.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Universal Insurance Company Ltd.</Script>
+    <Price>3.80</Price>
+  </Scripts>
+</xml>

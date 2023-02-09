@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xml>
+  <Scripts>
+    <Script>Arif Habib Corporation Ltd.</Script>
+    <Price>35.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Corporation Limited.</Script>
+    <Price>237.12</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Fertilizers Limited.</Script>
+    <Price>81.18</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fatima Fertilizer Co Ltd.</Script>
+    <Price>38.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fauji Fertilizer Bin Qasim Ltd.</Script>
+    <Price>19.69</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fauji Fertilizer Co. Ltd.</Script>
+    <Price>102.08</Price>
+  </Scripts>
+</xml>
