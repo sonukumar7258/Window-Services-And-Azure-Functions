@@ -1,0 +1,147 @@
+﻿Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Uninstalling assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Uninstalling assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Uninstalling assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.InstallLog
+   assemblypath = C:\Users\sonuk\source\repos\k190169_Q1\k190169_Q1\bin\Debug\k190169_Q1.exe
