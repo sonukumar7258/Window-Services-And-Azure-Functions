@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "k190169_Q4": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7296",
+      "launchBrowser": false
+    }
+  }
+}
